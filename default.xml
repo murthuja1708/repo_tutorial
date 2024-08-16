@@ -2,4 +2,6 @@
 <remote name="origin" fetch="https://github.com/murthuja1708"/>
 <default revision="master" remote="origin" />
 <project name="Ds_InDepth" remote="origin" path="DataStructures"/>
+<project name="RTOS" remote="origin" path="RealTime-OS"/>
 </manifest>
+
