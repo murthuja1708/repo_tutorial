@@ -1,7 +1,7 @@
 <manifest>
 <remote name="origin" fetch="https://github.com/murthuja1708"/>
 <default revision="master" remote="origin" />
-<project name="Ds_InDepth" remote="origin" path="DataStructures"/>
-<project name="RTOS" remote="origin" path="RealTime-OS"/>
+<project name="Ds_InDepth" remote="origin" path="DataStructures" revision="main"/>
+<project name="RTOS" remote="origin" path="RealTime-OS" revision="main"/>
 </manifest>
 
